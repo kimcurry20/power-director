@@ -1,0 +1,12 @@
+node_modules/* linguist-vendored
+
+* text=auto
+*.gif binary
+
+src/**/*.astro linguist-detectable
+
+vendor/* linguist-vendored
+
+*.html linguist-vendored
+yarn.lock linguist-generated
+public/* linguist-vendored
